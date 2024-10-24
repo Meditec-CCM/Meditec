@@ -1,6 +1,6 @@
 ---
-title: "About"
-page_title: "About our company"
+title: "MEDITEC"
+page_title: "MEDITEC XXIV"
 buttons:
   - label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
