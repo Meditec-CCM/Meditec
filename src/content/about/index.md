@@ -31,7 +31,7 @@ counter:
     
 # Gallery
 gallery:
-  title: We started with one single goal Empower entrepreneurs
+  title: We started with one single goal Empower entrepreneurs prubea preuab prueba
   images:
     - "/images/about/gallery-img-1.png"
     - "/images/about/gallery-img-3.png"
