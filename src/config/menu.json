@@ -6,7 +6,7 @@
     },
     {
       "name": "Impacto",
-      "url": "/about"
+      "url": "/impacto"
     },
     {
       "name": "Patrocinadores",
@@ -14,12 +14,13 @@
     },
     {
       "name": "Quiénes somos",
-      "url": "/features"
+      "url": "/quienes-somos"
     },
     {
       "name": "Agenda",
-      "url": "/how-it-works"
-    },
+      "url": "/agenda"
+    }
+    ,
     {
       "name": "Pages",
       "url": "",
@@ -60,7 +61,7 @@
     },
     {
       "name": "Contacto",
-      "url": "/contact"
+      "url": "/contacto"
     }
   ],
 

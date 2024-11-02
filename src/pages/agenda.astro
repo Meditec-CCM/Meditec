@@ -7,19 +7,19 @@ import Cta from "@/layouts/partials/Cta.astro";
 import { getEntryBySlug } from "astro:content";
 import { AiFillCheckCircle } from "react-icons/ai";
 
-const how_it_works = await getEntryBySlug("how-it-works", "index");
-const { perfomance, our_works } = how_it_works.data;
+const agenda = await getEntryBySlug("agenda", "index");
+const { perfomance, our_works } = agenda.data;
 const page_data = {
-  ...how_it_works.data,
-  content: how_it_works.body,
+  ...agenda.data,
+  content: agenda.body,
 };
 ---
 
 <Base
-  title={how_it_works.data.title}
-  meta_title={how_it_works.data.meta_title}
-  description={how_it_works.data.description}
-  image={how_it_works.data.image}
+  title={agenda.data.title}
+  meta_title={agenda.data.meta_title}
+  description={agenda.data.description}
+  image={agenda.data.image}
 >
   <Shape />
   <section class="page-hero pb-14 pt-16">
