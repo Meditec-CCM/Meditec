@@ -1,6 +1,6 @@
 ---
 title: "MEDITEC"
-page_title: "MEDITEC XXIV"
+page_title: "MEDITEC XXIV para personas"
 buttons:
   - label: Download The Theme
     link: "https://themefisher.com/astro-themes/pinwheel-astro"

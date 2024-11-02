@@ -1,47 +1,41 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "MEDITEC XXIV"
+  content: "Buscamos posicionarnos como un referente en la atención comunitaria en salud, brindando acceso a servicios médicos de calidad y promoviendo el bienestar integral de la población. Aspiramos a ser un evento que transforma vidas, donde la salud se perciba como un derecho accesible para todos."
   image: /images/banner-img.png
   button:
-    label: Download The Theme
+    label: Más acerca de MEDITEC
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "NUESTROS STANDS"
+  description: Texto por confirmar [                                                                                                                                   ].
   feature_list:
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
+      title: Biociencias
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
+      title:  Nutrición
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
+      title: Medicina
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
+      title: Psicología
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
+      title: Multidisciplinarios
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
+      title: IBT & IMD
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
+      title: Otro stand
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
+      title: Otro stand
       content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 #service

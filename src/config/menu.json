@@ -1,23 +1,23 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Impacto",
       "url": "/about"
     },
     {
-      "name": "Blog",
+      "name": "Patrocinadores",
       "url": "/blog"
     },
     {
-      "name": "Features",
+      "name": "Quiénes somos",
       "url": "/features"
     },
     {
-      "name": "How It Works",
+      "name": "Agenda",
       "url": "/how-it-works"
     },
     {
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     }
   ],
