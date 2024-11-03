@@ -1,7 +1,7 @@
 ---
 title: Features
 banner:
-  title: Connects with all your other tools to create a smooth experience.
+  title: Mesa Directiva de Meditec XXIV
   content: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta.
   image: "/images/features-banner-img.png"
   button:
@@ -9,7 +9,7 @@ banner:
     link: "https://themefisher.com/astro-themes/pinwheel-astro"
     enable: true
 project_management:
-  title: Build collaborative workspaces <br /> for your team
+  title: Nuestros integrantes
   content: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. <br /> Mauris pellentesque nec, egestas non nisi. Cras ultricies .
 
   management:
