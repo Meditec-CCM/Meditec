@@ -5,9 +5,9 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "logo": "/images/logo_azul_sin_fondo.png",
     "logo_width": "147",
-    "logo_height": "31",
+    "logo_height": "147",
     "logo_text": "Pinwheel"
   },
 
