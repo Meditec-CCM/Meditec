@@ -59,29 +59,5 @@ features:
     - title: Innovation
       content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
     
-
-## members
-members:
-  title: This is who we are
-  description: MEDITEC es un evento anual dedicado a promover la salud y el bienestar en nuestra comunidad. Durante esta jornada, ofrecemos consultas médicas, chequeos gratuitos y actividades orientadas a la prevención y cuidado de la salud. Nuestro objetivo es acercar servicios médicos de calidad a quienes más los necesitan, fomentando una sociedad más sana y consciente.
-  member_list:
-    - name: Eleanor Pena
-      field: Co-founder & COO
-      image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
-      image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
-      image: "/images/users/user-3.png"
-    - name: Eleanor Pena
-      field: Co-founder & COO
-      image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
-      image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
-      image: "/images/users/user-3.png"
 ---
 Meditec es un evento anual dedicado a promover la salud y el bienestar en nuestra comunidad. Durante esta jornada, ofrecemos consultas médicas, chequeos gratuitos y actividades orientadas a la prevención y cuidado de la salud. Nuestro objetivo es acercar servicios médicos de calidad a quienes más los necesitan, fomentando una sociedad más sana y consciente. ¡Únete y sé parte del cambio!
