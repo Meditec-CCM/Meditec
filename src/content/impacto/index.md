@@ -1,41 +1,42 @@
 ---
 title: "MEDITEC"
-page_title: "MEDITEC XXIV para personas"
-buttons:
-  - label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
-  - label: Learn More
-    link: "#"
-    outline: true
-    enable: true
+page_title: "MEDITEC XXIV para personas" 
+#buttons:
+ # - label: Download The Theme
+  #  link: "https://themefisher.com/astro-themes/pinwheel-astro"
+ #   enable: true
+  #- label: Learn More
+   # link: "#"
+    #outline: true
+    #enable: true
 
 # counter
 counter:
-  - name: "Customers"
-    number: 25
+  - name: "Pacientes atendidos en 2024"
+    number: 2300
     messurment: M
     color: "#A3A1FB"
-  - name: "Customers"
-    number: 440
+  - name: "Consultas por día"
+    number: 1500
     messurment: M
     color: "#5EE2A0"
-  - name: "Customers"
-    number: 50
+  - name: "Estudios por día"
+    number: 500
     messurment: K
     color: "#FE6019"
-  - name: "Customers"
+  - name: "Categorías distintas"
     number: 20
     messurment: K
     color: "#FEC163"
     
 # Gallery
 gallery:
-  title: We started with one single goal Empower entrepreneurs prubea preuab prueba
+  title: "Impulsando el bienestar con acciones que marcan la diferencia."
   images:
-    - "/images/about/gallery-img-1.png"
-    - "/images/about/gallery-img-3.png"
-    - "/images/about/gallery-img-2.png"
+    - "/images/evento1.JPG"
+    - "/images/evento2.JPG"
+    - "/images/evento3.JPG"
+    - "/images/evento4.png"
 
 ## our works
 features:
@@ -62,7 +63,7 @@ features:
 ## members
 members:
   title: This is who we are
-  description: Donec sollicitudin molestie malesda. Donec sollitudin mol estie ultricies ligula sed magna dictum
+  description: MEDITEC es un evento anual dedicado a promover la salud y el bienestar en nuestra comunidad. Durante esta jornada, ofrecemos consultas médicas, chequeos gratuitos y actividades orientadas a la prevención y cuidado de la salud. Nuestro objetivo es acercar servicios médicos de calidad a quienes más los necesitan, fomentando una sociedad más sana y consciente.
   member_list:
     - name: Eleanor Pena
       field: Co-founder & COO
@@ -83,4 +84,4 @@ members:
       field: Software Engineer
       image: "/images/users/user-3.png"
 ---
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem
+Meditec es un evento anual dedicado a promover la salud y el bienestar en nuestra comunidad. Durante esta jornada, ofrecemos consultas médicas, chequeos gratuitos y actividades orientadas a la prevención y cuidado de la salud. Nuestro objetivo es acercar servicios médicos de calidad a quienes más los necesitan, fomentando una sociedad más sana y consciente. ¡Únete y sé parte del cambio!
