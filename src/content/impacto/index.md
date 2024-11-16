@@ -31,7 +31,7 @@ counter:
     
 # Gallery
 gallery:
-  title: "Impulsando el bienestar con acciones que marcan la diferencia."
+  title: "Impulsamos el bienestar con acciones que marcan la diferencia."
   images:
     - "/images/evento1.JPG"
     - "/images/evento2.JPG"

@@ -5,7 +5,7 @@ banner:
   image: /images/foto_evento.JPG
   button:
     label: Más acerca de MEDITEC
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    link: "impacto"
     enable: true
 
 ##key features
