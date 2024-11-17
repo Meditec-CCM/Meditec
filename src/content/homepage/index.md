@@ -70,7 +70,7 @@ service:
         video_id: "g3-VxLQO7do"
       button:
         label: Conoce más
-        link: "#"
+        link: "quienes-somos"
         enable: true
 
 #testimonial
