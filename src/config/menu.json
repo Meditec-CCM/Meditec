@@ -67,20 +67,28 @@
 
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
+      "name": "Inicio",
+      "url": "/"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Impacto",
+      "url": "/impacto"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Patrocinadores",
+      "url": "/blog"
     },
     {
-      "name": "Changelog",
-      "url": "/changelog"
+      "name": "Quiénes somos",
+      "url": "/quienes-somos"
+    },
+    {
+      "name": "Agenda",
+      "url": "/agenda"
+    },
+    {
+      "name": "Contacto",
+      "url": "/contacto"
     }
   ]
 }
