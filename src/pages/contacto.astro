@@ -30,10 +30,10 @@ const page_data = {
         <div class="mb-10 text-center md:col-6 md:order-2 md:mb-0 md:pt-9">
           <div class="contact-img relative inline-flex pb-5 pl-5">
             <Image
-              src="/images/contact-img.png"
-              height={544}
+              src="/images/logo_blanco.png"
+              height={644}
               width={500}
-              alt=""
+              alt=""  
             />
             <Image
               class="absolute bottom-0 left-0 -z-[1] h-14 w-14"
@@ -51,24 +51,24 @@ const page_data = {
             method="POST"
           >
             <div class="form-group mb-5">
-              <label class="form-label" for="name">Full Name</label>
+              <label class="form-label" for="name">Nombre Completo</label>
               <input
                 class="form-control"
                 type="text"
                 id="name"
-                placeholder="Your Full Name"
+                placeholder="Tu Nombre Completo"
               />
             </div>
             <div class="form-group mb-5">
-              <label class="form-label" for="eamil">Email Adrdess</label>
+              <label class="form-label" for="eamil">Correo Electrónico</label>
               <input
                 class="form-control"
                 type="text"
                 id="email"
-                placeholder="Your  Email Address"
+                placeholder="Tú Correo Electrónico"
               />
             </div>
-            <div class="form-group mb-5">
+            <!-- <div class="form-group mb-5">
               <label class="form-label" for="reason">Reason/Purpose</label>
               <select name="reason" id="reason" class="form-select" required>
                 <option value="">Select reason/purpose</option>
@@ -76,9 +76,9 @@ const page_data = {
                 <option value="investment plane-2">Investment Plan 2</option>
                 <option value="investment plane-3">Investment Plan 3</option>
               </select>
-            </div>
+            </div> -->
             <div class="form-group mb-5">
-              <label class="form-label" for="message">Message Here</label>
+              <label class="form-label" for="message">Mensaje</label>
               <textarea
                 class="form-control h-[150px]"
                 id="message"
@@ -88,7 +88,7 @@ const page_data = {
             <input
               class="btn btn-primary block w-full"
               type="submit"
-              value="Send Message"
+              value="Enviar Mensaje"
             />
           </form>
         </div>
