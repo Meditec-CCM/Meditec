@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "MEDITEC XXIV"
+  title: "Misión"
   content: "Buscamos posicionarnos como un referente en la atención comunitaria en salud, brindando acceso a servicios médicos de calidad y promoviendo el bienestar integral de la población. Aspiramos a ser un evento que transforma vidas, donde la salud se perciba como un derecho accesible para todos."
   image: /images/foto_evento.JPG
   button:
@@ -55,20 +55,21 @@ service:
           image: "/images/sells-by-country.png"
 
   our_service:
-    - title: Accept payments any country in this whole universe
-      desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
-      image: "/images/collaboration.png"
-      list:
-        - Supporting more than 119 country world
-        - Open transaction with more than currencies
-        - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+    - title: Visión
+      description: MEDITEC busca ser una oportunidad formativa más significativa para los estudiantes de ciencias de la salud, ofreciendo un espacio donde la responsabilidad social, la innovación y la excelencia en el servicio se pongan en práctica, formando líderes que enfrentarán los desafíos del sistema de salud. 
+      image: "/images/DSC_0057.JPG"
+      
+    - title: 
+      description: Se busca que sea un evento que inspire a la creación de soluciones innovadoras para la promoción de la salud, la inclusión y la equidad, asegurando que nuestra labor tenga un impacto positivo en la comunidad. Asimismo, se propone garantizar la sostenibilidad de MEDITEC a lo largo del tiempo, convirtiéndolo como un proyecto anual clave que promueva la colaboración interdisciplinaria y fomente el acceso equitativo a los servicios de salud.
+      image: "/images/DSC_0164.JPG"
+      
+    - title: 
+      description: La ambición y el reto de MEDITEC movilizan a todos los miembros del grupo estudiantil, estimulando su pasión por marcar una diferencia real en la vida de las personas y en el ámbito de la salud comunitaria.
       video:
-        thumbnail: "/images/intro-thumbnail.png"
+        thumbnail: "/images/DSC_0319.JPG"
         video_id: "g3-VxLQO7do"
       button:
-        label: Know About Us
+        label: Conoce más
         link: "#"
         enable: true
 
