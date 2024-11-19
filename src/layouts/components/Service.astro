@@ -1,5 +1,5 @@
 ---
-import HomepageTab from "@/layouts/function-components/HomepageTab";
+// import HomepageTab from "@/layouts/function-components/HomepageTab";
 import VideoComponent from "@/layouts/function-components/VideoComponent";
 import { AiFillCheckCircle } from "react-icons/ai";
 import { Image } from "astro:assets";
@@ -9,10 +9,10 @@ const { homepage_tab, our_service } = service;
 
 <section class="section services">
   <div class="container">
-    <HomepageTab client:load homepage_tab={homepage_tab} />
+    <!-- <HomepageTab client:load homepage_tab={homepage_tab} /> -->
     {
       our_service.map((item: any, index: number) => (
-        <div class="gx-5 row mt-12 items-center lg:mt-0">
+        <div class="gx-5 row mt-12 items-center lg:mt-0 service-item">
           <div class={`lg:col-7 ${index % 2 === 0 ? "order-0" : "order-1"}`}>
             {item.image && (
               <div class="relative">
@@ -22,13 +22,7 @@ const { homepage_tab, our_service } = service;
                   width={667}
                   height={498}
                   src={item.image}
-                />
-                <Image
-                  class="absolute bottom-6 left-1/2 -z-[1] -translate-x-1/2"
-                  src="/images/shape-2.png"
-                  alt=""
-                  height={147}
-                  width={151}
+                  style={`height: 400px; width: 550px; ${index % 2 !== 0 ? "float: right;" : ""}`}
                 />
               </div>
             )}
@@ -50,9 +44,10 @@ const { homepage_tab, our_service } = service;
               index % 2 === 0 ? "order-1" : "order-0"
             }`}
           >
+            
             <div class="text-container">
               <h2 class="lg:text-4xl">{item.title}</h2>
-              <p class="mt-4">{item.description}</p>
+              <p class="mt-4 text-base">{item.description}</p>
               {item.button && item.button.enable && (
                 <a class="btn btn-white mt-6" href={item.button.link}>
                   {item.button.label}
@@ -73,4 +68,12 @@ const { homepage_tab, our_service } = service;
       ))
     }
   </div>
+
 </section>
+
+<style>
+  .service-item {
+    margin-bottom: 2rem; /* Adjust this value as needed */
+    
+  }
+</style>
