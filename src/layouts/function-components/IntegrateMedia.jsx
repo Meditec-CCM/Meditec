@@ -45,9 +45,11 @@ const IntegrateMedia = ({ integrations, categories }) => {
 
                 <a
                   className="group inline-flex items-center font-semibold text-dark hover:text-primary"
-                  href={`/patrocinadores/${item.slug}`}
+                  href={`${item.data.url}`}
+                  target="_blank" // This will open the link in a new tab
+                  rel="noopener noreferrer"
                 >
-                  View integration
+                  Visítanos
                   <AiOutlineArrowRight className="ml-1.5 text-xl font-bold duration-300 group-hover:ml-3" />
                 </a>
               </div>
