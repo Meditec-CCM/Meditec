@@ -12,52 +12,64 @@ banner:
 
 ## members
 members:
-  title: This is who we are
-  description: MEDITEC es un evento anual dedicado a promover la salud y el bienestar en nuestra comunidad. Durante esta jornada, ofrecemos consultas médicas, chequeos gratuitos y actividades orientadas a la prevención y cuidado de la salud. Nuestro objetivo es acercar servicios médicos de calidad a quienes más los necesitan, fomentando una sociedad más sana y consciente.
+  title: Sobre nosotros
+  description: Meditec es un iniciativa organizada por los estudiantes de la escuela de Medicina y Ciencias de la Salud del Tecnológico de Monterrey- Campus CCM, quienes se preparan mediante medio año para promover hábitos saludables y brindar atención preventiva gratuita a la comunidad. Durante 2 días, estudiantes voluntarios (con asesoriamento de profesionales en el área de salud) ofrecerán consultas médicas, talleres educativos y actividades interactivas para todas las edades. 
   member_list:
-    - name: Eleanor Pena
-      field: Co-founder & COO
-      image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
-      image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
-      image: "/images/users/user-3.png"
-    - name: Eleanor Pena
-      field: Co-founder & COO
-      image: "/images/users/user-1.png"
-    - name: Bukiakta Bansalo
-      field: Product Manager
-      image: "/images/users/user-2.png"
-    - name: Ortrin Okaster
-      field: Software Engineer
-      image: "/images/users/user-3.png"
+    - name: Emiliano Murillo
+      field: Presidente
+      image: "/images/users/presidente.png"
+    - name: Alejandra Arias
+      field: Vicepresidenta
+      image: "/images/users/vicepresidenta.png"
+    - name: Ashley Beltrán
+      field: Coordinadora general
+      image: "/images/users/coord-general.png"
+    - name: Delia Arreola
+      field: Coordinadora de logística
+      image: "/images/users/coord-logistica.png"
+    - name: Laura Ortega
+      field: Coordinadora de finanzas
+      image: "/images/users/coord-finanzas.png"
+    - name: Sofía Ortiz
+      field: Coordinadora de patrocinios
+      image: "/images/users/coord-patrocinios.png"
+    - name: Lizeth Mendoza
+      field: Coordinadora de comunicación
+      image: "/images/users/coord-comunicacion.png"
+    - name: Camila Marín
+      field: Coordinadora de Acciones por México
+      image: "/images/users/coord-acciones-por-mexico.png"
+    - name: Esmeralda Galán
+      field: Coordinadora de elecciones
+      image: "/images/users/coord-elecciones.png"
+    - name: Jorge Moreno
+      field: Coordinador de seguridad
+      image: "/images/users/coord-seguridad.png"
 
 
 project_management:
-  title: Nuestros integrantes
-  content: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. <br /> Mauris pellentesque nec, egestas non nisi. Cras ultricies .
+  title: Nuestros stands
+  content:
 
   management:
     title: Project Management
     projects:
-      - title: Reduce friction
+      - title: Biociencias
         content: Encourage frequent & timely recognition integrating with communication tools
         icon: lock  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
+      - title: Nutrición
         content: Encourage frequent & timely recognition integrating with communication tools
         icon: tv  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
+      - title: Medicina
         content: Encourage frequent & timely recognition integrating with communication tools
         icon: tool  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
+      - title: Psicología
         content: Encourage frequent & timely recognition integrating with communication tools
         icon: lock  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
+      - title: Multidisciplinarios
         content: Encourage frequent & timely recognition integrating with communication tools
         icon: tv  #icon package react-feather-icon [https://feathericons.com/]
-      - title: Reduce friction
+      - title: IBT & IMD
         content: Encourage frequent & timely recognition integrating with communication tools
         icon: tool  #icon package react-feather-icon [https://feathericons.com/]
   feature_service:
