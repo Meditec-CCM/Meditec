@@ -13,29 +13,6 @@ const IntegrateMedia = ({ integrations, categories }) => {
       <div className="container">
         <div className="row justify-center">
           <div className="lg:col-10">
-            <ul className="integration-tab filter-list flex flex-wrap items-center justify-center">
-              <li>
-                <span
-                  className={`filter-btn ${
-                    !tab ? "filter-btn-active" : undefined
-                  } btn btn-sm cursor-pointer`}
-                  onClick={() => setTab("")}
-                >
-                  All Categories
-                </span>
-              </li>
-              {categories.map((category, i) => (
-                <li key={`category-${i}`} onClick={() => setTab(category)}>
-                  <span
-                    className={`filter-btn ${
-                      tab === category ? "filter-btn-active" : undefined
-                    } btn btn-sm cursor-pointer`}
-                  >
-                    {humanize(category)}
-                  </span>
-                </li>
-              ))}
-            </ul>
           </div>
         </div>
         <div className="integration-tab-items row mt-10">
