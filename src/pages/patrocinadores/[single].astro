@@ -8,12 +8,12 @@ import { humanize, markdownify } from "@/lib/utils/textConverter";
 import { getEntryBySlug } from "astro:content";
 import type { TIntegrationsIndex } from "@/types";
 const integraionsIndex = (await getEntryBySlug<any, string>(
-  "integrations",
+  "patrocinadores",
   "-index",
 )) as TIntegrationsIndex;
 
 export async function getStaticPaths() {
-  const integrations = await getSinglePage("integrations");
+  const integrations = await getSinglePage("patrocinadores");
   const paths = integrations.map((post: any) => ({
     params: {
       single: post.slug,
