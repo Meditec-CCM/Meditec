@@ -33,10 +33,10 @@ counter:
 gallery:
   title: "Impulsamos el bienestar con acciones que marcan la diferencia."
   images:
-    - "/images/evento1.JPG"
-    - "/images/evento2.JPG"
-    - "/images/evento3.JPG"
-    - "/images/evento4.png"
+    - "/images/graf1.png"
+    - "/images/graf2.png"
+    - "/images/graf3.png"
+    - "/images/graf4.png"
 
 ## our works
 features:

@@ -55,23 +55,24 @@ project_management:
     title: Project Management
     projects:
       - title: Biociencias
-        content: Encourage frequent & timely recognition integrating with communication tools
+        content: -Alergología, Pruebas Sanguíneas, Vacunación, Microbiología
         icon: lock  #icon package react-feather-icon [https://feathericons.com/]
       - title: Nutrición
-        content: Encourage frequent & timely recognition integrating with communication tools
+        content: -Actividad física, Antropometría y Asesoría Nutricional, Diabetes y Dislipidemias, Snacks Saludables.
         icon: tv  #icon package react-feather-icon [https://feathericons.com/]
       - title: Medicina
-        content: Encourage frequent & timely recognition integrating with communication tools
+        content: -Dermatología, Oftalmología, Gastroenterología, Endocrinología, Cardiología, Neurología, Historia Clínica, Nefrología, Neumología, Otorrinolaringología, Traumatología y Ortopedia.
         icon: tool  #icon package react-feather-icon [https://feathericons.com/]
       - title: Psicología
-        content: Encourage frequent & timely recognition integrating with communication tools
+        content: -Psicología Integral, Tanatología
         icon: lock  #icon package react-feather-icon [https://feathericons.com/]
       - title: Multidisciplinarios
-        content: Encourage frequent & timely recognition integrating with communication tools
+        content: -Geriatría, Primeros Auxilios, Pediatría, Ginecología y Obstetricia, Salud Sexual, Osteoporosis.
         icon: tv  #icon package react-feather-icon [https://feathericons.com/]
       - title: IBT & IMD
-        content: Encourage frequent & timely recognition integrating with communication tools
+        content: -Biomarcadores, Simulación Médica.
         icon: tool  #icon package react-feather-icon [https://feathericons.com/]
+
   feature_service:
     title: Accept payments from devices any country in this universe
     description: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
