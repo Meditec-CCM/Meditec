@@ -57,6 +57,10 @@ service:
   our_service:
     - title: Visión
       description: MEDITEC busca ser una oportunidad formativa más significativa para los estudiantes de ciencias de la salud, ofreciendo un espacio donde la responsabilidad social, la innovación y la excelencia en el servicio se pongan en práctica, formando líderes que enfrentarán los desafíos del sistema de salud. 
+
+
+
+      PRUEBA PARA MERGE
       image: "/images/DSC_0057.JPG"
       
     - title: 
