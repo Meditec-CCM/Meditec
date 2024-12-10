@@ -1,5 +1,5 @@
 ---
-title: How It Works
+title: Agenda
 page_title: our structured approach helps you navigate uncertainties
 
 

@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Quienes Somos
 banner:
   title: Mesa Directiva de Meditec XXIV
   content: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta.

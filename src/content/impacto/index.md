@@ -1,5 +1,5 @@
 ---
-title: "MEDITEC"
+title: "Impacto"
 page_title: "MEDITEC XXIV para personas" 
 #buttons:
  # - label: Download The Theme
