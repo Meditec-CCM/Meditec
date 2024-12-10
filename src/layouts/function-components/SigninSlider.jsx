@@ -17,9 +17,9 @@ const SigninSlider = ({ title }) => {
         src="/images/login-banner-bg.png"
         alt=""
       />
-      <div className="w-full text-center">
+      <div className="w-full text-center mt-10">
         <h2
-          className="h3 text-white"
+          className="h3 text-white mt-10"
           dangerouslySetInnerHTML={{ __html: marked.parse(title) }}
         />
         <div className="auth-banner-carousel">
@@ -41,8 +41,8 @@ const SigninSlider = ({ title }) => {
               <img
                 width="667"
                 height="557"
-                className="mx-auto"
-                src="/images/signup-carousel-img-1.png"
+                className="mx-auto mt-10"
+                src="/images/DSC_0319.JPG"
                 alt=""
               />
             </SwiperSlide>
