@@ -46,24 +46,6 @@ const SigninSlider = ({ title }) => {
                 alt=""
               />
             </SwiperSlide>
-            <SwiperSlide key={"feature-" + 1}>
-              <img
-                width="667"
-                height="557"
-                className="mx-auto"
-                src="/images/signup-carousel-img-1.png"
-                alt=""
-              />
-            </SwiperSlide>
-            <SwiperSlide key={"feature-" + 2}>
-              <img
-                width="667"
-                height="557"
-                className="mx-auto"
-                src="/images/signup-carousel-img-1.png"
-                alt=""
-              />
-            </SwiperSlide>
           </Swiper>
 
           <div className="relative flex justify-center">
