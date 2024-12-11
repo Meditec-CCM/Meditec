@@ -1,6 +1,6 @@
 ---
 title: Agenda
-page_title: our structured approach helps you navigate uncertainties
+page_title: 15 & 16 de Agosto 2025
 
 
 # perfomance
@@ -35,4 +35,5 @@ our_works:
       - Open transaction with more than currencies
       - Customer Service with 79 languages
 ---
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque <br /> nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta.Lorem
+Ven este viernes 15 y sábado 16 de agosto a la explanada exterior del Tec de Monterrey Campus Ciudad de México, para recibir asesoría médica, psicológica y nutricional totalmente GRATUITA. <br/> 
+Además, podrás encontrar estudios de laboratorio, elastografias, espirometrias, electrocardiogramas y mucho más.
