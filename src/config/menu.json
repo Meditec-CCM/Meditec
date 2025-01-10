@@ -17,6 +17,10 @@
       "url": "/quienes-somos"
     },
     {
+      "name": "Testimonios",
+      "url": "/testimonios"
+    },
+    {
       "name": "Agenda",
       "url": "/agenda"
     }
